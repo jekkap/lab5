@@ -1,0 +1,25 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+*techno music playing*
+
+00:00:13.000 --> 00:00:14.500
+*soda can opening*
+
+00:00:15.000 --> 00:00:16.000
+*ice cubes hitting glass*
+
+00:00:17.000 --> 00:00:19.000
+*soda pouring into glass*
+
+00:00:21.000 --> 00:00:23.000
+*music muffles*
+
+00:00:26.000 --> 00:00:27.000
+*music intensifies*
+
+00:00:35.000 --> 00:00:36.500
+*soda pouring into glass*
+
+00:00:39.000 --> 00:00:41.000
+*techno music fades*
